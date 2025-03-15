@@ -1,3 +1,5 @@
+package Easy;
+
 public class AddDigitsM {
     public static int addDigits(int num) {
         while (num >= 10) {
