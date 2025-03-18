@@ -1,3 +1,5 @@
+package Easy;
+
 public class FinalValue {
     public static int finalValueAfterOperations(String[] operations) {
         int count = 0;
