@@ -1,9 +1,9 @@
-package Easy;
+package easy;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class majorityElementM {
+public class MajorityElement {
     public static int majorityElement(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {

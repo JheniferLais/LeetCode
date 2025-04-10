@@ -1,9 +1,9 @@
-package Easy;
+package easy;
 
 import java.util.*;
 
 
-public class FindAllNumbersDisappearedInAnArrayM {
+public class FindAllNumbersDisappearedInAnArray {
     public static List<Integer> findDisappearedNumbers(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {

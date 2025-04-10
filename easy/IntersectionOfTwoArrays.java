@@ -1,10 +1,10 @@
-package Easy;
+package easy;
 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class IntersectionM {
+public class IntersectionOfTwoArrays {
     public static int[] intersection(int[] nums1, int[] nums2) {
 
         Set<Integer> setNums2 = new HashSet<>();

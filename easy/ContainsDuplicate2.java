@@ -1,9 +1,9 @@
-package Easy;
+package easy;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class containsDuplicateIIM {
+public class ContainsDuplicate2 {
     public static boolean containsNearbyDuplicate(int[] nums, int k) {
         Set<Integer> intervalo = new HashSet<>();
 

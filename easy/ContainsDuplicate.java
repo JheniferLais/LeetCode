@@ -1,9 +1,9 @@
-package Easy;
+package easy;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class containsDuplicateM {
+public class ContainsDuplicate {
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
 

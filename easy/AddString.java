@@ -1,6 +1,6 @@
-package Easy;
+package easy;
 
-public class Main {
+public class AddString {
     public static String addStrings(String num1, String num2) {
         int indexNum1 = num1.length() - 1;
         int indexNum2 = num2.length() - 1;
